@@ -4,7 +4,7 @@ import { Textarea } from "@/components/ui/textarea";
 import { SearchCheck, Loader2 } from "lucide-react";
 import OutputTextBox from "@/components/outputText";
 
-const API_ENDPOINT = "http://127.0.0.1:5000/process";
+const API_ENDPOINT = "https://factobackend.onrender.com/process";
 
 // Define the expected API response type
 interface ApiResponse {
