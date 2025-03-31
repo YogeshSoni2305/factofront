@@ -17,8 +17,8 @@ export function HeroScrollDemo() {
               </span>
             </h1>
             <p className="mt-4 text-muted-foreground max-w-xl mx-auto">
-              Our AI-powered tool analyzes news content, checks facts, and provides a credibility 
-              score to help you determine what's reliable and what's not.
+               Our AI-powered tool analyzes news content and tweets and gives true facts!
+   
             </p>
           </>
         }
